@@ -24,8 +24,14 @@ function existemblocos(){
 	and (!instance_exists(obj_orange ) )
 	and (!instance_exists(obj_pink ) )
 	and (!instance_exists(obj_purple )) 
+	and (!instance_exists(obj_dark_green )) 
+	and (!instance_exists(obj_gray_dark )) 
+	and (!instance_exists(obj_gray_light )) 
+	and (!instance_exists(obj_gray_more_light )) 
+	and (!instance_exists(obj_black )) 
+	and (!instance_exists(obj_white )) 
 	and (!instance_exists(obj_red ))){
-		if(room!= lv_02){
+		if(room!= lv_05){
 			room_goto_next()
 			audio_play_sound(snd_level_up,5,false)
 		}else{

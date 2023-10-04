@@ -1,0 +1,15 @@
+colisaobloco()
+instance_destroy()
+
+
+
+
+
+
+
+
+
+
+
+
+
