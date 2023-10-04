@@ -1,0 +1,4 @@
+global.comecou = false;
+
+
+
