@@ -53,3 +53,9 @@ function power_up(){
 	}
 
 }
+
+function nine_degrees(){
+	if(obj_ball.direction == obj_wall.direction){
+		obj_ball.direction = random(360)
+	}
+}

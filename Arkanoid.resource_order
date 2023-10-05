@@ -3,5 +3,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_iron","order":1,"path":"objects/obj_iron/obj_iron.yy",},
     {"name":"spr_iron","order":1,"path":"sprites/spr_iron/spr_iron.yy",},
+    {"name":"obj_wood","order":2,"path":"objects/obj_wood/obj_wood.yy",},
+    {"name":"spr_wood","order":2,"path":"sprites/spr_wood/spr_wood.yy",},
   ],
 }
