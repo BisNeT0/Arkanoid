@@ -1,7 +1,7 @@
 global.vidas --
 if(global.vidas<1){
 	show_message_async("GAME OVER")
-	room_goto(lv_01)
+	room_goto(lv_02)
 	global.pontos = 0
 	global.vidas = 3
 	audio_play_sound(snd_game_over,5,false)
