@@ -8,6 +8,21 @@ function colisaobloco(){
 	colisaoblocoshot()
 }
 
+function colisaoblocoFireBall(){
+	instance_destroy(other)
+	audio_play_sound(snd_colisao,5,false)
+	global.pontos +=10
+	colisaoblocoShotFireBall()
+}
+
+function colisaoblocoShotFireBall(){
+	
+	instance_destroy(other)
+	audio_play_sound(snd_colisao,5,false)
+	global.pontos +=10
+	power_up()
+}
+
 function colisaoblocoshot(){
 	move_bounce_all(true)
 	instance_destroy(other)
