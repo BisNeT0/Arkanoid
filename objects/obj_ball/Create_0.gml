@@ -1,4 +1,6 @@
 global.comecou = false;
-direction =90;
+direction = 90;
+visible = true
+
 
 
