@@ -1,0 +1,14 @@
+colisaoblocoFireBall()
+speed++
+
+
+
+
+
+
+
+
+
+
+
+
