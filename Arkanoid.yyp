@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"snd_derrota","path":"sounds/snd_derrota/snd_derrota.yy",},},
@@ -51,6 +51,7 @@
     {"id":{"name":"lv_03","path":"rooms/lv_03/lv_03.yy",},},
     {"id":{"name":"obj_hole","path":"objects/obj_hole/obj_hole.yy",},},
     {"id":{"name":"spr_green","path":"sprites/spr_green/spr_green.yy",},},
+    {"id":{"name":"obj_fireball","path":"objects/obj_fireball/obj_fireball.yy",},},
     {"id":{"name":"spr_gray_dark","path":"sprites/spr_gray_dark/spr_gray_dark.yy",},},
     {"id":{"name":"spr_gray_light","path":"sprites/spr_gray_light/spr_gray_light.yy",},},
     {"id":{"name":"spr_purple","path":"sprites/spr_purple/spr_purple.yy",},},
@@ -73,6 +74,7 @@
     {"id":{"name":"snd_tiro","path":"sounds/snd_tiro/snd_tiro.yy",},},
     {"id":{"name":"obj_purple","path":"objects/obj_purple/obj_purple.yy",},},
     {"id":{"name":"lv_02","path":"rooms/lv_02/lv_02.yy",},},
+    {"id":{"name":"spr_fireball","path":"sprites/spr_fireball/spr_fireball.yy",},},
     {"id":{"name":"spr_white","path":"sprites/spr_white/spr_white.yy",},},
     {"id":{"name":"spr_dark_green","path":"sprites/spr_dark_green/spr_dark_green.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
@@ -95,6 +97,7 @@
     {"roomId":{"name":"lv_04","path":"rooms/lv_04/lv_04.yy",},},
     {"roomId":{"name":"lv_05","path":"rooms/lv_05/lv_05.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

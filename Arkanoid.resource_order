@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_fireball","order":1,"path":"objects/obj_fireball/obj_fireball.yy",},
+    {"name":"spr_fireball","order":1,"path":"sprites/spr_fireball/spr_fireball.yy",},
+  ],
 }
