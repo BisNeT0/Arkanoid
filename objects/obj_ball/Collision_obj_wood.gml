@@ -1,0 +1,14 @@
+colisaobloco()
+speed++
+
+
+
+
+
+
+
+
+
+
+
+

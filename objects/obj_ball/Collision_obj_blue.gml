@@ -1,3 +1,3 @@
 colisaobloco()
-instance_destroy()
+
 
